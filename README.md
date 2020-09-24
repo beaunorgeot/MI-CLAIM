@@ -18,3 +18,7 @@ Our goal is to develop a documentation standard that can serve clinical scientis
 
 As we gather feedback, and as the field evolves, we plan to publish comprehensive updates to the MI-CLAIM standards
 
+### The MI-CLAIM Checklist
+A copy of the checklist can be obtained in this repo for easy access (MI_CLAIM_checklist_repo.docx).
+The checklist is in MS Word Table format, but otherwise exactly matches the table attached to the original manuscript
+

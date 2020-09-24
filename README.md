@@ -22,4 +22,4 @@ As we gather feedback, and as the field evolves, we plan to publish comprehensiv
 A copy of the checklist can be obtained in this repo for easy access (MI_CLAIM_checklist_repo.docx).
 The checklist is in MS Word Table format, but otherwise exactly matches the table attached to the original manuscript
 
-[MI-CLAIM Checklist](https://www.nature.com/articles/s41591-020-1041-y/tables/1/)
+[![MI-CLAIM Checklist](MI_CLAIM_pic.png)](https://www.nature.com/articles/s41591-020-1041-y/tables/1/)
